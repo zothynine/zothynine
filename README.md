@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Mario.
-No noth that plumber guy. I sometimes feel like a plumber though.
+No not that plumber guy. I sometimes feel like a plumber though.
+
+I’m currently working on a javascript lightbox.
+I love pico-8.
+I have a great idea for an arcade related project but no time for it :-(
+I used to play bass, now I tinker around in Reaper and Ableton Live.
 
 <!--
 **zothynine/zothynine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
