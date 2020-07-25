@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mario.
 No not that plumber guy. I sometimes feel like a plumber though.
 
-- I’m currently working on a javascript [lightbox](https://github.com/zothynine/LastLightbox) (very early state).
+- I’m currently working on a javascript [lightbox](https://github.com/zothynine/LastLightbox) (very early stage).
 - I love [pico-8](https://www.lexaloffle.com/pico-8.php).
 - I have a great idea for an arcade related project but no time for it :-(
 - I used to play bass, now I tinker around in [Reaper](https://www.reaper.fm) and [Ableton Live](https://www.ableton.com).
