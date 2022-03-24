@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Mario.
 No not that plumber guy. I sometimes feel like a plumber though.
 
-- I’m currently working on a javascript [lightbox](https://github.com/zothynine/LastLightbox) (very early stage).
-- I love [pico-8](https://www.lexaloffle.com/pico-8.php).
+- I’m currently working on a game for the Playdate handheld [Playdate](https://play.date).
+- I love [pico-8](https://www.lexaloffle.com/pico-8.php) and [Playdate](https://play.date).
 - I have a great idea for an arcade related project but no time for it :-(
-- I used to play bass, now I tinker around in [Reaper](https://www.reaper.fm) and [Ableton Live](https://www.ableton.com).
+- I used to play bass, now I tinker around in [Reaper](https://www.reaper.fm).
+- For my day job I work as a web developer: frontend | any
+- Pronouns: he/him
 
 <!--
 **zothynine/zothynine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
